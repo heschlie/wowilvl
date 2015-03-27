@@ -1,7 +1,7 @@
 # wowilvl
-*Requires Python3*
+**Requires Python3**
 
-*Change the clientID in the wowapi.cfg to match your own!*
+**Change the clientID in the wowapi.cfg to match your own!**
 
 A quick script to check your guilds ilvl, and sort them for you.
 
