@@ -1,5 +1,5 @@
 # wowilvl
-**Requires Python3**
+**Requires Python3 with requests**
 
 **Change the clientID in the wowapi.cfg to match your own!**
 
